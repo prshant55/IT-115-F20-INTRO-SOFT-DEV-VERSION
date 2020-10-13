@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title>First Try</title>
+	</head>
+  <body>
+	   <h1>Introduction to HTML</h1>
+	   <p>HTML stands for hyper text mark up language.
+		<br>HTML is the language that is written to make a webpage so the web browser understand.
+		<br>Hypertext is the system which links the text or grapichs to its content. you usually have to click ot eneter in it
+		<br> and markup language is a computer language that uses tags to define elements. so rather than having 
+		Tough syntax it has easy human readable text.<br>thank you<br>
+	  <a href="www.google.com/facebook.com" Home Page<a>
+	  
+  </body>
+</html>
